@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "veinminer",
+  "name": "VeinMiner",
+  "version": "2.0.0",
+  "authors": ["Nick"],
+  "description": "Sneak-mine an ore block with a pickaxe to break the connected vein. Compiled, allocation-free rewrite of VeinMiner 1.0.5; reads the same veinminer.json.",
+  "side": "Universal",
+  "requiredOnClient": true,
+  "dependencies": { "game": "1.22.0" }
+}

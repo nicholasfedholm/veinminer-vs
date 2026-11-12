@@ -1,0 +1,8 @@
+{
+  "veinminer:tooltip-info": "Hold {0} while mining ore to mine the whole vein.",
+  "veinminer:cmd-desc": "VeinMiner settings",
+  "veinminer:cmd-show": "[VeinMiner] limit: {0}, require sneak: {1}, diagonals: {2}, ore prefixes: {3}",
+  "veinminer:cmd-limit-desc": "[VeinMiner] Set the most blocks one vein-mine can break",
+  "veinminer:cmd-limit-error": "[VeinMiner] Limit must be between 1 and {0}.",
+  "veinminer:cmd-limit-success": "[VeinMiner] Vein limit set to {0}."
+}
